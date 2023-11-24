@@ -1,4 +1,4 @@
-# Group-Theory-DRP
+# Group Theory DRP
 
 A GitHub repository containing my final report for my Directed Research Project under the supervision of Dr. Rizwan Khalid.
 
