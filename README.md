@@ -1,8 +1,4 @@
-# Group Theory DRP
-
-A GitHub repository containing my final report for my Directed Research Project under the supervision of Dr. Rizwan Khalid.
-
-This project involved independently studying various topics in group theory, including representation theory as well as Lie Groups and Lie Algebras. 
+A GitHub repository containing my final report for my Directed Research Project which involved independently studying various topics in group theory, including representation theory as well as Lie Groups and Lie Algebras. 
 
 In the project report, group theory is utilised to determine the vibrational modes of the $\text{H}_2\text{O}$ molecule.
 
